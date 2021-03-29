@@ -1,2 +1,2 @@
 # ubuntu-coding
-Learning prograaming concepts on ubuntu
+Learning programing concepts on ubuntu
